@@ -1,0 +1,15 @@
+metric,value
+Matches analyzed,9879
+Gold leader win rate: 0-500,0.525564803804994
+Gold leader win rate: 3000+,0.9077437858508605
+"Near-even gold, epic trailing: leader win rate",0.4388111888111888
+"Near-even gold, epic leading: leader win rate",0.601027397260274
+Gold LR holdout AUC,0.8010232615470152
+Full LR holdout AUC,0.8108431499435163
+Full LR holdout accuracy,0.7218623481781377
+Full LR vs Gold LR Brier reduction,0.004254643824554677
+Near-even Gold LR Brier,0.2503230156674124
+Near-even Full LR Brier,0.24552544082285815
+Selected model,Full LR
+Confidence >= 0.80 coverage,0.36356275303643726
+Confidence >= 0.80 empirical accuracy,0.8942093541202673

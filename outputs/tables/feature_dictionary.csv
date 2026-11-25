@@ -1,0 +1,13 @@
+domain,feature,definition
+Economy & growth,gold_diff,Blue minus Red
+Economy & growth,xp_diff,Blue minus Red
+Combat,kill_diff,Blue minus Red
+Combat,assist_diff,Blue minus Red
+Combat,first_blood,Blue = 1
+Resource collection,lane_cs_diff,Blue minus Red
+Resource collection,jungle_cs_diff,Blue minus Red
+Map objectives,dragon_diff,Blue minus Red
+Map objectives,herald_diff,Blue minus Red
+Map objectives,tower_diff,Blue minus Red
+Vision,wards_placed_diff,Blue minus Red
+Vision,wards_destroyed_diff,Blue minus Red

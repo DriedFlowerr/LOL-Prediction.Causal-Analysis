@@ -1,0 +1,14 @@
+identity,verified
+Blue gold difference,True
+Red gold difference is the opposite,True
+Blue experience difference,True
+Red experience difference is the opposite,True
+Blue kills = red deaths,True
+Red kills = blue deaths,True
+Exactly one first-blood side,True
+Blue elite monsters = dragons + heralds,True
+Red elite monsters = dragons + heralds,True
+Blue gold/min = total gold / 10,True
+Red gold/min = total gold / 10,True
+Blue CS/min = lane CS / 10,True
+Red CS/min = lane CS / 10,True

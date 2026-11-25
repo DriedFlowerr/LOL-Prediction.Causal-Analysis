@@ -1,0 +1,9 @@
+check,value,interpretation
+Matches,9879.0,rows
+Original columns,40.0,columns
+Unique game IDs,9879.0,underlying matches
+Missing cells,0.0,expected 0
+Duplicate rows,0.0,expected 0
+Duplicate game IDs,0.0,expected 0
+Blue wins,4930.0,target count
+Blue win rate,0.4990383642069035,target prevalence
